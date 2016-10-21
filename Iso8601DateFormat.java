@@ -3,9 +3,6 @@
  * This code is released under the MIT License
  * https://opensource.org/licenses/MIT
  */
-
-package bits.util;
-
 import java.text.DateFormat;
 import java.text.FieldPosition;
 import java.text.ParseException;
